@@ -11,7 +11,7 @@ table of contents
   -[section 2.2](#section-2.2)
 
 # introduction 
-**that's an algorithm developed by Makarovskikh Tatyana Anatolyevna and abotaleb mostafa that's from south ural state university**
+**that's an algorithm developed by Makarovskikh Tatyana Anatolyevna"Макаровских Татьяна Анатольевна" and abotaleb mostafa that's from south ural state university"Аботалеб Мостафа"**
 
 ## TBATSMODEL 
 **How it algorithm work**
